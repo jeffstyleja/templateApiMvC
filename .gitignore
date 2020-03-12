@@ -1,0 +1,6 @@
+/vendor
+.composer.phar
+teste.php
+/teste.php
+/composer.phar
+
